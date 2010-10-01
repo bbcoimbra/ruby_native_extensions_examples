@@ -1,0 +1,12 @@
+[submodule "hello_world_ruby_native"]
+	path = hello_world_ruby_native
+	url = git://github.com/bbcoimbra/hello_world_ruby_native.git
+[submodule "system-getifaddrs"]
+	path = system-getifaddrs
+	url = git://github.com/bbcoimbra/system-getifaddrs.git
+[submodule "br-cnpj"]
+	path = br-cnpj
+	url = git://github.com/bbcoimbra/br-cnpj.git
+[submodule "br-cpf"]
+	path = br-cpf
+	url = git://github.com/bbcoimbra/br-cpf.git
